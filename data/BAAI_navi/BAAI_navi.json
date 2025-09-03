@@ -1,0 +1,346 @@
+[
+  {
+    "sample_id": "3RTG1_kitchen_L",
+    "task_goal": "Go to kitchen from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn right to face the kitchen.",
+        "start_frame": 0,
+        "stop_frame": 240
+      },
+      {
+        "narration_text": "go straight to the kitchen.",
+        "start_frame": 240,
+        "stop_frame": 552
+      }
+    ]
+  },
+  {
+    "sample_id": "3RTG1_kitchen_4_L",
+    "task_goal": "Go to kitchen from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn a large right and go past the white robot.",
+        "start_frame": 0,
+        "stop_frame": 240
+      },
+      {
+        "narration_text": "Turn a large right and go to the kitchen.",
+        "start_frame": 240,
+        "stop_frame": 648
+      }
+    ]
+  },
+  {
+    "sample_id": "3RTG1_kitchen_2_L",
+    "task_goal": "Go to kitchen from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and go past the white robot.",
+        "start_frame": 0,
+        "stop_frame": 504
+      },
+      {
+        "narration_text": "Turn a large right and go to the kitchen.",
+        "start_frame": 504,
+        "stop_frame": 1008
+      }
+    ]
+  },
+  {
+    "sample_id": "3RGT1_kitchen_3_L",
+    "task_goal": "Go to kitchen from RGT1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around to face the hallway 3",
+        "start_frame": 0,
+        "stop_frame": 168
+      },
+      {
+        "narration_text": "Follow the hallway 3 to go to the kitchen.",
+        "start_frame": 168,
+        "stop_frame": 480
+      }
+    ]
+  },
+  {
+    "sample_id": "3RGT1_kitchen_2_L",
+    "task_goal": "Go to kitchen from RGT1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Follow the hallway 3 to go to the kitchen.",
+        "start_frame": 0,
+        "stop_frame": 336
+      }
+    ]
+  },
+  {
+    "sample_id": "3meetingA_boye_L",
+    "task_goal": "Go to workspace from meeting room A",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and get out of the meeting room.",
+        "start_frame": 0,
+        "stop_frame": 144
+      },
+      {
+        "narration_text": "Go through the hallway 3.",
+        "start_frame": 144,
+        "stop_frame": 600
+      },
+      {
+        "narration_text": "Turn right and go through hallway 2.",
+        "start_frame": 600,
+        "stop_frame": 1056
+      },
+      {
+        "narration_text": "Turn right, go through hallway 1 and turn left to the workspace.",
+        "start_frame": 1056,
+        "stop_frame": 1584
+      }
+    ]
+  },
+  {
+    "sample_id": "3kitchen_RTG1_L",
+    "task_goal": "Go to robot training ground 1 from kitchen",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and get out of the kitchen.",
+        "start_frame": 0,
+        "stop_frame": 240
+      },
+      {
+        "narration_text": "Go straight to the robot training ground 1.",
+        "start_frame": 240,
+        "stop_frame": 600
+      }
+    ]
+  },
+  {
+    "sample_id": "2work_meetingA_open_L",
+    "task_goal": "Go to meeting room A from workspace",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn right to follow the hallway 1 to the end.",
+        "start_frame": 0,
+        "stop_frame": 432
+      },
+      {
+        "narration_text": "Turn left to follow the hallway 2.",
+        "start_frame": 432,
+        "stop_frame": 1008
+      },
+      {
+        "narration_text": "Turn left to follow the hallway 3.",
+        "start_frame": 1008,
+        "stop_frame": 1896
+      },
+      {
+        "narration_text": "Turn left to go into the meeting room A.",
+        "start_frame": 1896,
+        "stop_frame": 2184
+      }
+    ]
+  },
+  {
+    "sample_id": "2RTG3_boye_L",
+    "task_goal": "Go to workspace from robot training ground 3",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn left and go through hallway 2.",
+        "start_frame": 0,
+        "stop_frame": 600
+      },
+      {
+        "narration_text": "Turn right and go through hallway 1 to Borje's desk.",
+        "start_frame": 600,
+        "stop_frame": 1296
+      }
+    ]
+  },
+  {
+    "sample_id": "2RTG1_meetingA_open_L",
+    "task_goal": "Go to meeting room A from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Go straight and follow the hallway 3.",
+        "start_frame": 0,
+        "stop_frame": 744
+      },
+      {
+        "narration_text": "Turn left to go into the meeting room A.",
+        "start_frame": 744,
+        "stop_frame": 984
+      }
+    ]
+  },
+  {
+    "sample_id": "2RTG1_kitchen_L",
+    "task_goal": "Go to kitchen from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Go straight and follow the hallway 3.",
+        "start_frame": 0,
+        "stop_frame": 288
+      },
+      {
+        "narration_text": "Turn left to go to the kitchen.",
+        "start_frame": 288,
+        "stop_frame": 576
+      }
+    ]
+  },
+  {
+    "sample_id": "2RTG1_kitchen_4_L",
+    "task_goal": "Go to kitchen from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and go straight to the robot.",
+        "start_frame": 0,
+        "stop_frame": 336
+      },
+      {
+        "narration_text": "Turn right and go straight to the kitchen.",
+        "start_frame": 336,
+        "stop_frame": 840
+      }
+    ]
+  },
+  {
+    "sample_id": "2RTG1_kitchen_3_L",
+    "task_goal": "Go to kitchen from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Follow the hallway 3.",
+        "start_frame": 0,
+        "stop_frame": 336
+      },
+      {
+        "narration_text": "Turn left to go to the kitchen.",
+        "start_frame": 336,
+        "stop_frame": 648
+      }
+    ]
+  },
+  {
+    "sample_id": "2RTG1_kitchen_2_L",
+    "task_goal": "Go to kitchen from robot training ground 1",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and go to the white robot.",
+        "start_frame": 0,
+        "stop_frame": 408
+      },
+      {
+        "narration_text": "Turn left and go straight to the kitchen.",
+        "start_frame": 408,
+        "stop_frame": 936
+      }
+    ]
+  },
+  {
+    "sample_id": "2meetingA_kitchen_L",
+    "task_goal": "Go to kitchen from meeting room A",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and get out of this meeting room.",
+        "start_frame": 0,
+        "stop_frame": 264
+      },
+      {
+        "narration_text": "Turn a large left and go to the kitchen.",
+        "start_frame": 264,
+        "stop_frame": 672
+      }
+    ]
+  },
+  {
+    "sample_id": "2meetingA_boye_L",
+    "task_goal": "Go to workspace from meeting room A",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and get out of this meeting room.",
+        "start_frame": 0,
+        "stop_frame": 432
+      },
+      {
+        "narration_text": "Turn right and follow the hallway 3.",
+        "start_frame": 432,
+        "stop_frame": 1008
+      },
+      {
+        "narration_text": "Turn right and follow the hallway 2.",
+        "start_frame": 1008,
+        "stop_frame": 1824
+      },
+      {
+        "narration_text": "Turn right and follow the hallway 1 to Borje's desk.",
+        "start_frame": 1824,
+        "stop_frame": 2952
+      }
+    ]
+  },
+  {
+    "sample_id": "2kitchen_RTG1_RTG3_L",
+    "task_goal": "Go to robot training ground 1 and robot training ground 3 from kitchen",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn around and get out of the kitchen.",
+        "start_frame": 0,
+        "stop_frame": 192
+      },
+      {
+        "narration_text": "Go straight and turn right at the white robot.",
+        "start_frame": 192,
+        "stop_frame": 720
+      },
+      {
+        "narration_text": "Go through the robot training ground 1.",
+        "start_frame": 720,
+        "stop_frame": 1200
+      },
+      {
+        "narration_text": "Go to the robot training ground 3.",
+        "start_frame": 1200,
+        "stop_frame": 1536
+      }
+    ]
+  },
+  {
+    "sample_id": "2kitchen_RTG1_L",
+    "task_goal": "Go to robot training ground 1 from kitchen",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Turn a large right to get out of the kitchen.",
+        "start_frame": 0,
+        "stop_frame": 240
+      },
+      {
+        "narration_text": "Go straight to the robot training ground 1.",
+        "start_frame": 240,
+        "stop_frame": 672
+      }
+    ]
+  },
+  {
+    "sample_id": "2boye_kitchen_L",
+    "task_goal": "Go to kitchen from workspace",
+    "task_progress_metadata": [
+      {
+        "narration_text": "Go straight through the hallway 1 and turn left.",
+        "start_frame": 0,
+        "stop_frame": 1056
+      },
+      {
+        "narration_text": "Go straight through the hallway 2 and turn left at the corner.",
+        "start_frame": 1056,
+        "stop_frame": 1632
+      },
+      {
+        "narration_text": "Go straight through the hallway 3 and go into the kitchen.",
+        "start_frame": 1632,
+        "stop_frame": 2616
+      }
+    ]
+  }
+]
